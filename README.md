@@ -1,6 +1,6 @@
 # Hi there, I'm Alexander Premo 👋
 
-## DevOps Engineer | 3x AWS Certified | Terraform Certified
+## Cloud Engineer | DevSecOps Engineer | 3x AWS Certified 
 
 I am a passionate DevOps Engineer at Easton Consulting Technologies, deeply immersed in the evolving landscape of cloud security and site reliability within the dynamic fintech sector. My journey is marked by a relentless pursuit of excellence and a dedication to mastering the complexities of cloud architectures.
 
